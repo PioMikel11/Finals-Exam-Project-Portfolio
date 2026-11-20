@@ -1,156 +1,125 @@
-# Prelim-Portfolio-Final
-# Pio Mikel Del Mar
+<div align="center">
 
-### BSN Student | Ateneo de Davao University
+# 🩺 Finals Portfolio
 
-Welcome to my digital portfolio.
+### Pio Mikel C. Del Mar
+**Bachelor of Science in Nursing · Ateneo de Davao University · Davao City, Philippines**
 
-This repository is a collection of my academic outputs, creative works,
-learning experiences, and projects developed throughout my journey as a
-Bachelor of Science in Nursing student.
+*Organizing knowledge, embracing technology, and learning for better nursing practice.*
 
-More than simply storing files, this portfolio reflects how I learn,
-create, organize ideas, and explore the connection between healthcare
-and digital technology.
+</div>
 
 ---
 
-## 👋 A Little About Me
+## 👋 About Me
+Hi, I'm Pio Mikel, a fourth-year nursing student at Ateneo de Davao University. In my clinical practicum I have rotated through medical-surgical, OB-GYN, pediatric, operating room, and emergency room settings. In every one of them, I've learned that good care depends on **clear communication and well-organized information**.
 
-Hi! I'm **Pio Mikel Del Mar**, currently taking up **Bachelor of Science
-in Nursing (BSN)** at **Ateneo de Davao University**.
+This repository collects the presentations, designs, and digital activities I completed for **21st Century IT Skills**. Each one helped me practice a skill I can use on duty: explaining clearly, organizing documents, working with a team, and checking information before I act on it.
 
-My journey in nursing is not limited to clinical knowledge. I am also
-interested in developing my communication, creativity, research,
-technology, and organizational skills.
+## 🗂️ Portfolio Contents
 
-I believe that healthcare professionals need to communicate information
-clearly, adapt to technology, and continuously learn new skills.
-
-This portfolio is one of the ways I document that growth.
-
----
-
-## 🗂️ What's Inside This Repository?
-
-This repository contains different types of academic and creative work
-that represent my learning experiences.
-
-### 🎤 Presentation Works
-[Explore Activity 01 →](./Activity%201%3A%20Presentation%20Design%20Principles/)
-
-A collection of presentations where I explored ways of communicating
-information through effective visual structure, layout, and design.
-
-**Includes:**
-- Presentation projects
-- Slide designs
-- Visual layouts
-- Presentation documentation
-- Design reflections
+| # | Activity | What I practiced |
+|---|---|---|
+| 01 | Presentation Design Principles | Building slides around one clear main idea |
+| 02 | Color Palette and Typography | Using color, type, and spacing to guide the reader |
+| 03 | Social Media Infographics | Turning health information into quick visual messages |
+| **04** | **Google Drive** | **Storing, organizing, sharing, and protecting files in the cloud** |
+| 05 | Prompt Refinement in Nursing Education | Comparing AI responses to a basic and a refined prompt |
+| 06 | One-Page Personal Portfolio Website | Presenting my clinical experience and research online |
+| 07 | Comparative Résumé Generation | Judging two AI résumé drafts and editing my own |
 
 ---
 
-### 🎨 Visual Design Studies 
-[Explore Activity 02 →](./Activity%202%3A%20Color%20Palette%20and%20Typography/)
+## 🎤 Activity 01 — Presentation Design Principles
+I practiced breaking a topic into slides, choosing a clear reading order, and keeping each slide focused on one idea. My outputs include slide layouts and notes on why I made each design choice.
 
-These projects focus on the visual elements that influence how
-information is presented and perceived.
+**Nursing link:** A patient teaching session works the same way. One idea at a time is easier to remember.
 
-**Areas explored:**
-- Color selection
-- Typography
-- Composition
-- Visual hierarchy
-- Layout
-- Design consistency
+## 🎨 Activity 02 — Color Palette and Typography
+I explored how color combinations, font sizes, and spacing affect readability. I focused on helping a reader tell headings from supporting text and find their way through a layout without effort.
 
----
+**Nursing link:** Readable handouts and posters help patients and families understand health information.
 
-### 📱 Infographic Projects
-[Explore Activity 03 →](./Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation/)
+## 📱 Activity 03 — Social Media Infographics
+I designed infographics that pair short text with graphics so a message can be understood at a glance. Deciding what to leave out helped me find the one thing a reader needs most.
 
-Visual projects created to communicate information in a simple,
-organized, and engaging way.
-
-These works explore how text, graphics, color, and layout can work
-together to communicate a message effectively.
+**Nursing link:** Short visual messages are useful for health promotion and community education.
 
 ---
 
-### 🩺 Nursing & Healthcare
+## ☁️ Activity 04 — Google Drive
+> *The activity that is different from the rest of my portfolio, and the one that changed how I organize my work.*
 
-Academic activities connected to my BSN studies and my developing
-understanding of healthcare.
+I studied **Google Drive**, Google's cloud storage platform, and how it lets people store, organize, share, and manage files online from any device. Our group also prepared a presentation on the topic.
 
-Possible areas include:
+### Key features I learned
+| Feature | What it does |
+|---|---|
+| ☁️ **Cloud storage** | Keeps files online so they can be opened on different devices |
+| 📁 **Organization** | Folders, subfolders, renaming, moving, and search |
+| 🔗 **Sharing** | Share by link or invite people, with **Viewer, Commenter, or Editor** access |
+| 🤝 **Real-time collaboration** | Several people edit Docs, Sheets, and Slides together, with changes saved automatically |
+| 🔄 **Synchronization** | Supported files stay up to date across connected devices |
+| 🗑️ **File management** | Upload, download, copy, delete, and restore from Trash |
 
-- Health assessment
-- Patient care
-- Health education
-- Community health
-- Nursing documentation
-- Healthcare concepts
-- Nursing-related projects
+### How I can use it as a nursing student
+- **Academic organization:** reviewers, notes, case studies, and learning materials in one place
+- **Group work:** sharing presentations and documents with classmates
+- **Research:** storing references and manuscripts for our community study
+- **Access anywhere:** opening study materials from a phone or computer
 
----
+### 🔐 Privacy comes first
+Convenience comes with responsibility. I learned to use strong passwords, check sharing permissions before sending a file, avoid public links for sensitive material, and be careful with unknown links. **Confidential patient records should only be handled through institution-approved systems with proper authorization.** A personal Drive is not one of them.
 
-### 🔎 Research & Learning
+### Activity materials
+- 📊 [Our Google Drive presentation on Canva](https://canva.link/4mzbroszu3jj69w)
 
-Academic work that allows me to explore information, analyze ideas,
-and develop evidence-based thinking.
-
-This section may include:
-
-- Research activities
-- Literature-based work
-- Academic projects
-- Data-related activities
-- Research documentation
-- Reflections and learning outputs
-
----
-
-## 🎯 Why I Created This Portfolio
-
-I created this repository for more than just submitting academic work.
-
-I wanted to create a place where I can:
-
-- Keep my projects organized
-- Track my progress
-- Document how my ideas develop
-- Present my work digitally
-- Improve my technical skills
-- Reflect on what I learn
-- Build a foundation for my future professional portfolio
-
-As I continue my nursing education, I plan to gradually add new
-experiences and projects to this repository.
+### 💭 My takeaway
+Google Drive is more than online storage. It is a tool for staying organized and working with others, and it needs responsible use. I now keep my school files in numbered folders with clear names, so I can find what I need quickly.
 
 ---
 
-## 💻 My First Steps With GitHub
+## 🤖 Activity 05 — Prompt Refinement in Nursing Education
+I used ChatGPT to see how the wording of a prompt changes an explanation for nursing students. My starting prompt was short and general. For my revised prompt, I asked ChatGPT to act as a nursing instructor, named the patient setting, and asked for clear sections, a rationale for each point, examples from clinical duty, and a short checklist.
 
-GitHub was initially unfamiliar to me.
+I compared both answers for **clarity, detail, accuracy, and usefulness**. The refined answer was easier to review before duty, and the rationales helped me understand *why* each step matters. I also learned to **check AI-generated clinical information against current guidelines and hospital policy** before using it in patient care.
 
-Learning how repositories, folders, files, README pages, and commits
-work gave me an opportunity to explore a different type of digital
-platform.
+## 🌐 Activity 06 — One-Page Personal Portfolio Website
+I created a one-page website to introduce myself and share what I learned in my clinical rotations. It also features our community study on **health literacy and medication adherence among adults with type 2 diabetes**.
 
-My first portfolio setup involved:
+📎 **Activity file:** `Pio_Mikel_Del_Mar_Activity6.pdf` has the website objective, build prompt, screenshots, and my reflection.
 
-```text
-Create Repository
-       ↓
-Plan the Folder Structure
-       ↓
-Create Activity Sections
-       ↓
-Upload Outputs
-       ↓
-Write Documentation
-       ↓
-Organize the Portfolio
-       ↓
-Review & Improve
+## 📄 Activity 07 — Comparative Résumé Generation
+I gave two AI models the same prompt and compared their résumé drafts on structure, clarity, formatting, and overall quality. For my final version, I used Claude's clean structure, grouped my experience by rotation, and described my supervised responsibilities accurately.
+
+📎 **Activity file:** `Pio_Mikel_Del_Mar_Activity7.pdf` has the prompt, both drafts, a comparison table, my reflection, and my final one-page nursing résumé.
+
+---
+
+## 🩺 Nursing and Healthcare
+As this portfolio grows, I plan to add work on health assessment, patient safety, health education, community nursing, and documentation. Activities 04 and 05 show how I connect a digital skill to a real question from clinical training: *how do I organize information and check it before I use it?*
+
+## 🔬 Research and Learning
+Our community nursing research looks at the link between **health literacy** and **medication adherence** in adults with type 2 diabetes. I plan to use this space for literature reviews, research activities, and reflections on how I read and explain findings.
+
+## 🎯 Purpose of This Portfolio
+- Keep my academic and creative outputs organized and easy to find
+- Track how my communication, design, and technology skills develop
+- Record what I learned and what I would change next time
+- Build a foundation for my professional nursing portfolio
+
+## 🚧 Challenges and Solutions
+GitHub was new to me. I learned how repositories, folders, commits, and README files work by uploading one activity at a time and checking how each looked afterward. Numbered folders and clear filenames kept related files together, which is the same habit I practiced in Activity 04.
+
+## 🌱 Continuing My Progress
+I'll keep adding projects as I finish new activities and rotations. For each one, I want to record what I made, what I learned, and how I can use it in class or on duty.
+
+---
+
+<div align="center">
+
+**Thank you for visiting my portfolio!** 🩺
+
+*Pio Mikel C. Del Mar · BSN · Ateneo de Davao University*
+
+</div>
