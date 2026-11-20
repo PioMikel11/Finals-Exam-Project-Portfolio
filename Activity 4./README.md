@@ -1,4 +1,3 @@
-Activity 04: Google Drive 
 Pio Mikel C. Del Mar
 
 Bachelor of Science in Nursing (BSN)
