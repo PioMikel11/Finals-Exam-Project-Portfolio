@@ -133,6 +133,16 @@ Responsible use of cloud storage helps protect personal, academic, and professio
 
 ---
 
+## 📂 Presentation
+
+The following link contains our presentation about Google Drive, including the topic discussed and the information covered in this activity.
+
+📊 **Google Drive Presentation:**
+
+[View Our Google Drive Presentation on Canva →](https://www.canva.com/design/DAHVIG2JFOI/H3H9nUYc4bSHM7ABXFaaIw/edit)
+
+---
+
 ## 💭 Personal Reflection
 
 Through this activity, I learned that Google Drive is more than just an online storage platform. It is a useful tool that helps individuals organize files, access information, and collaborate with others more conveniently.
